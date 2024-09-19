@@ -1,0 +1,42 @@
+/* public/css/style2.css */
+
+/* Estilo general del cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5; /* Fondo gris claro para un look moderno */
+    color: #333; /* Color de texto oscuro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura completa del viewport */
+}
+
+/* Contenedor central */
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff; /* Fondo blanco para el contenedor */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    text-align: center;
+}
+
+/* Estilo del encabezado */
+h1 {
+    font-size: 2.5em;
+    color: #007bff; /* Color azul para el título */
+    margin-bottom: 20px;
+}
+
+/* Estilo del párrafo */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555; /* Color gris oscuro para el texto del párrafo */
+    margin: 0 auto;
+    padding: 0 20px;
+}

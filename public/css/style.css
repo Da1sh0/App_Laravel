@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+.header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+.header h1 {
+    margin: 0;
+}
+.buttons {
+    margin-top: 30px;
+}
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 15px 25px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.btn-mission {
+    background-color: #28a745;
+}
+.btn-vision {
+    background-color: #28a745;
+}
+.btn-back {
+    background-color: #6c757d;
+}
+.footer {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #343a40;
+    color: white;
+    border-radius: 8px;
+}
